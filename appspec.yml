@@ -1,3 +1,10 @@
+version: 0.0
+os: linux
 files:
   - source: \
     destination: /vhosts/dev.battle4kc.com
+hooks:
+  BeforeInstall:
+  AfterInstall:
+  ApplicationStart:
+  ApplicationStop:
