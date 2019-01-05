@@ -6,7 +6,7 @@ files:
 hooks:
 #  BeforeInstall:
   AfterInstall:
-  - location: /vhosts/dev.battle4kc.com/perms.sh 
+  - location: scripts/reset-permissions.sh
     timeout: 2
     runas: root
 #  ApplicationStart:
