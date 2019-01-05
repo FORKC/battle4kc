@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source: ./
-    destination: /vhosts/dev.battle4kc.com
+    destination: /vhosts/dev.battle4kc.com/httpdocs
 hooks:
   BeforeInstall:
   AfterInstall:
