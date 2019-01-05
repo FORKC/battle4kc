@@ -6,7 +6,7 @@ files:
 hooks:
 #  BeforeInstall:
   AfterInstall:
-  - location: scripts/reset-permissions.sh
+  - location: /scripts/reset-permissions.sh
     timeout: 2
     runas: root
 #  ApplicationStart:
