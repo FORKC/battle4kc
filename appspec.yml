@@ -4,10 +4,10 @@ files:
   - source: /
     destination: /vhosts/dev.battle4kc.com/httpdocs
 hooks:
-  BeforeInstall:
+#  BeforeInstall:
   AfterInstall:
   - location: /vhosts/dev.battle4kc.com/perms.sh 
-      timeout: 2
-      runas: root
-  ApplicationStart:
-  ApplicationStop:
+    timeout: 2
+    runas: root
+#  ApplicationStart:
+#  ApplicationStop:
