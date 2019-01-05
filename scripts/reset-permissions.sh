@@ -1,5 +1,7 @@
 #!/bin/bash
 
+pwd
+
 chown -R apache:devs .
 chmod -R 570 .
 
