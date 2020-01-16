@@ -8,4 +8,7 @@
             "url":"https://wpackagist.org"
         }
     ],
+    "require": {
+        "wpackagist-plugin/disable-gutenberg": "^2.0"
+    }
 }
