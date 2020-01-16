@@ -1,0 +1,11 @@
+{
+    "name": "forkc/battle4kc.com",
+    "description": "The public website Kansas City's battle themed fundraiser. Brought to you by Friends of the River Kansas City.",
+    "type": "project",
+    "repositories":[
+        {
+            "type":"composer",
+            "url":"https://wpackagist.org"
+        }
+    ],
+}
