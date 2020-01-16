@@ -9,6 +9,7 @@
         }
     ],
     "require": {
-        "wpackagist-plugin/disable-gutenberg": "^2.0"
+        "wpackagist-plugin/disable-gutenberg": "^2.0",
+        "wpackagist-plugin/simple-add-pages-or-posts": "^2.0"
     }
 }
